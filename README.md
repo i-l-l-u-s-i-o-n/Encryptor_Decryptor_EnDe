@@ -4,7 +4,11 @@ This software can be used for encrypting a text file.
 
 I coded it in PYTHON and  then created a standalone executable using pyinstaller package to run on both 32 and 64 bit Windows .
 
-Simply download the appropriate package(x64 or x86) and run EnDe_by_SHIVAM.exe
+Simply download the appropriate package(x64 or x86).
+
+Extract the archieve using 'WINRAR' or any other application.You can download WINRAR from 'https://www.win-rar.com/start.html?&L=0'
+
+Run EnDe_by_SHIVAM.exe 
 
 Follow the instructions after running the exe. 
 
