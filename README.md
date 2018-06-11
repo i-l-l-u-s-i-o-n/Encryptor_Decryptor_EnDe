@@ -1,8 +1,10 @@
 # Encryptor_Decryptor_EnDe
 
-This software can be used for encrypting a text file.
+This software encrypts the text file. 
 
-I coded it in PYTHON and  then created a standalone executable using pyinstaller package to run on both 32 and 64 bit Windows .
+The decryption of file also requires a PASSWORD which can be set during encryption.
+
+I coded it in PYTHON and  then created a standalone executable using pyinstaller package to run on both 32 and 64 bit Windows.
 
 Simply download the appropriate package(x64 or x86).
 
